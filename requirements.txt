@@ -1,0 +1,10 @@
+streamlit
+pinecone-client
+langchain_groq
+langchain_pinecone 
+langchain_community
+langchain_classic
+langchain_core
+langchain
+python-dotenv
+requests
