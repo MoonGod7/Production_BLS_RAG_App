@@ -1,5 +1,5 @@
 streamlit
-pinecone-client
+pinecone
 langchain_groq
 langchain_pinecone 
 langchain_community
